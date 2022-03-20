@@ -6,6 +6,7 @@ This document will serve as our collective repo for css tips and tricks that we 
 [Grid](#Grid)
 [Flex](#Flex)
 [Images](#Images)
+[Colors](#Colors)
  
 ## How does this work?
 Anyone can make edit's or PR's to this document.  
