@@ -40,6 +40,6 @@ then add a link in the Quick Links section using the folliwing syntax :
 ## Images 
 <------ add image rules here -----> 
 
-## Color
+## Colors
 
 <------- add Color rules here ----> 
