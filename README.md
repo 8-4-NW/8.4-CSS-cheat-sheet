@@ -64,7 +64,7 @@ flex-direction: row
 ### justify-content
 This defines the alignment along the main axis. It helps distribute extra free space leftover when either all the flex items on a line are inflexible, or are flexible but have reached their maximum size
 ```css
-  justify-conten: flex-start
+  justify-content: flex-start
 ```
 ### align-content
 This aligns a flex container’s lines within when there is extra space in the cross-axis, similar to how justify-content aligns individual items within the main-axis.
